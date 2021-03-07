@@ -1,0 +1,9 @@
+{
+    "zip": false,
+    "launchMode": "debug",
+    "debugSettings": {
+        "debugPack" : "C:\\Users\\espvolt\\Downloads\\Texture Packs\\Minecraft\\Guiny's Green Galaxy.zip",
+        "debugFunction" : "chroma",
+        "debugParameters": ["assets\\minecraft\\textures\\gui\\icons.png", 4, true, [[52, 0, 70, 8], 256, "hearts.png"]]
+    } 
+}
